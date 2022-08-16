@@ -1,5 +1,8 @@
 import turtle
 import time
+
+npa_screen = turtle.Screen()
+
 turtle.pensize(5)
 
 # Bước 2: Vẽ hình tròn đơn giản
