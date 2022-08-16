@@ -2,7 +2,7 @@ import turtle
 npa_screen = turtle.Screen()
 t = turtle.Turtle()
 
-t.speed(2)
+t.speed(0)
 
 t.forward(300)
 t.left(90)
