@@ -1,4 +1,5 @@
 import turtle
+npa_screen = turtle.Screen()
 t = turtle.Turtle()
 
 t.speed(2)
