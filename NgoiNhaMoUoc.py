@@ -1,8 +1,11 @@
 import turtle
 import math
 
-turtle.bgcolor("light blue")
+
 t = turtle.Turtle()
+npa_screen = turtle.Screen()
+
+turtle.bgcolor("light blue")
 t.pensize(2)
 t.speed(0)
 
